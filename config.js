@@ -175,8 +175,8 @@ const CONFIG = {
 					link: 'https://hashnode.com/',
 				},
 				{
-					name: 'r/unixporn',
-					link: 'https://www.reddit.com/r/unixporn',
+					name: 'Coding-Time',
+					link: 'https://wakatime.com/dashboard',
 				},
 				{
 					name: 'Roadmap',
@@ -198,11 +198,11 @@ const CONFIG = {
 				},
 				{
 					name: 'React-Native',
-					link: 'https://www.reddit.com/r/react-native/',
+					link: 'https://www.reddit.com/r/reactnative/',
 				},
 				{
-					name: 'Codejeet',
-					link: 'https://codejeet.xyz',
+					name: 'Job-tracker',                             //'Codejeet',
+					link: 'https://docs.google.com/spreadsheets/d/1n4WV36vHUjsGMVlJQRSzwwnKkg_rV4eGe6hOTz6GLWw/edit?gid=0#gid=0',                                     //'https://codejeet.com/dashboard',
 				},
 				{
 					name: 'Hackerrank',
