@@ -201,8 +201,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/reactnative/',
 				},
 				{
-					name: 'Job-tracker',                             //'Codejeet',
-					link: 'https://docs.google.com/spreadsheets/d/1n4WV36vHUjsGMVlJQRSzwwnKkg_rV4eGe6hOTz6GLWw/edit?gid=0#gid=0',                                     //'https://codejeet.com/dashboard',
+					name: 'Codejeet',
+					link: 'https://codejeet.com',
 				},
 				{
 					name: 'Hackerrank',
